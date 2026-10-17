@@ -196,15 +196,7 @@ export default function Home() {
       </section>
 
       
-      <footer className="border-t border-white/10 px-6 py-8">
-        <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 text-sm text-gray-500 sm:flex-row">
-          <p>
-            <span className="font-semibold text-white">devspace</span> ©{" "}
-            {new Date().getFullYear()}
-          </p>
-          <p>Designed with curiosity. Built with code.</p>
-        </div>
-      </footer>
+      
     </main>
   );
 }
